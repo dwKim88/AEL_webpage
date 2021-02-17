@@ -44,7 +44,7 @@
 
 ### International Conference
 
-* **D. Kim**, J. Kim, B. Park, H. Kim, S. Huh, and S. Ahn, "Instantaneous Magnetic Force Evaluation on a Magnetic Material for Wireless Power Transfer Based Microrobot Propulsion," 2020 IEEE Wireless Power Transfer Conference (WPTC 2020), Seoul, South Korea, Nov., 2020.
+  * **D. Kim**, J. Kim, B. Park, H. Kim, S. Huh, and S. Ahn, "Instantaneous Magnetic Force Evaluation on a Magnetic Material for Wireless Power Transfer Based Microrobot Propulsion," 2020 IEEE Wireless Power Transfer Conference (WPTC 2020), Seoul, South Korea, Nov., 2020.
 
   * J. Kim, H. Kim, **D. Kim**, J. Park, B. Park, S. Huh, and S. Ahn, "Analysis of Eddy Current Loss for Wireless Power Transfer in Conductive Medium High Using Z-parameters Method," 2020 IEEE Wireless Power Transfer Conference (WPTC 2020), Seoul, South Korea, Nov., 2020.
 
