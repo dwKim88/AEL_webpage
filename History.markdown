@@ -105,17 +105,23 @@
 
 
 
-### Major Enhancements
+### Domestic Journals
 
-  * Allow skins to be defined and customized easily (#336)
-  * Drop support for scalar &#39;author&#39; configuration (#384)
-  * Place skins in `minima/skins` to clarify purpose (#479)
+1. **김동욱**, 안승영, "초소형 의료 로봇으로의 무선전력전송 및 동력전달 시스템," 전자공학회지, Vol. 47, No. 3, pp. 15-22, 2020.
 
-### Bug Fixes
+### Domesitc Conferences
 
-  * Add missing rel=me attributes to social links (#386)
-  * Set the border radius of highlight (#426)
-  * Removed unnecessary whitespace-controls (#390)
+1.	**김동욱**, "자성체의 Effeictive Permeability 조절을 통한 SAE J2954 RP 표준 전기자동차용 무선 전력전송 코일 튜닝," 2020년도 한국자동차공학회 대구경북지회 추계학술대회, 2020
+2.	**김동욱**, 김종욱, 김해림, 정다원, 안승영, "무선전력전송시스템에서 자성체에 가해지는 자기력을 응용한 마이크로로봇의 추진," 2019년도 한국전자파학회 하계종합학술대회, 2019
+3.	**김동욱**, 한일송, 안승영, "장애물 검출 및 운전자 상태 인식을 통한 실시간 경고 시스템," 2018년도 한국도시철도학회 춘계학술대회, 2018
+4.	**김동욱**, 박재형, 안승영, "주파수 변경을 이용한 무선 전력 전송 기반 초소형 마이크로 로봇의 동력 및 전력 전송 기술," 2017년도 한국전자파학회 하계종합학술대회, 2017
+5.	**김동욱**, 안승영, "초소형 마이크로 로봇의 무선 전력 및 동력 전송 기술," 2015년도 대한전기학회 하계학술대회, 2015
+6.	**김동욱**, 한일송, 안승영, "철도 운전자 상태 모니터링용 실시간 임베디드 시스템," 2015년도 한국도시철도학회 추계학술대회, 2015
+7.	**김동욱**, 안승영, "영상처리를 이용한 철도 운전자 상태 모니터링," 2015년도 한국도시철도학회 춘계학술대회, 2015
+8.	**김동욱**, 안승영, 한일송, "뉴로모르픽 알고리즘을 이용한 도시 철도 선로 보행자 인식", 2014년도 한국도시철도학회 추계학술대회, 2014
+9.	안승영, **김동욱**, 한일송, "뇌 모방 시각 지능을 이용한 철도 위험 상황 인식", 2014년도 한국철도학회 춘계학술대회 논문집, 2014
+
+
   * fix: overflow auto for tables (#296)
   *  Add `overflow-wrap: break-word` to body tag (#321)
   * Use &#34;rem&#34; unit in relative-font-size mixin (#436)
