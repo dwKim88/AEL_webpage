@@ -1,4 +1,7 @@
-### International Journal
+## Publication
+
+### International Journals
+---
 
 20.	C. Park, J. Park, Y. Shin, J. Kim, S. Huh, **D. Kim**, and S. Ahn, "Separated Circular Capacitive Coupler for Reducing Cross-Coupling Capacitance in Drone Wireless Power Transfer System," IEEE Transactions on Microwave Theory and Techniques, Vol. 68, No. 9, pp. 3978-3985, Sep. 2020.
 
@@ -104,11 +107,12 @@
 1.	**D. Kim**, M. Kim, J. Yoo, H. H. Park, and S. Ahn, "Magnetic Resonant Wireless Power Transfer for Propulsion of Implantable Micro-Robot," 59th Annual Conference on Magnetism and Magnetic Materials (MMM), Honolulu, United States, Nov. 2014.
 
 
-
+---
 ### Domestic Journals
 
 1. **김동욱**, 안승영, "초소형 의료 로봇으로의 무선전력전송 및 동력전달 시스템," 전자공학회지, Vol. 47, No. 3, pp. 15-22, 2020.
 
+---
 ### Domesitc Conferences
 1.	**김동욱**, "자성체의 Effeictive Permeability 조절을 통한 SAE J2954 RP 표준 전기자동차용 무선 전력전송 코일 튜닝," 2020년도 한국자동차공학회 대구경북지회 추계학술대회, 2020
 2.	**김동욱**, 김종욱, 김해림, 정다원, 안승영, "무선전력전송시스템에서 자성체에 가해지는 자기력을 응용한 마이크로로봇의 추진," 2019년도 한국전자파학회 하계종합학술대회, 2019
