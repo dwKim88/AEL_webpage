@@ -38,9 +38,9 @@
 
   *D. Kim, J. Park, H. H Park, and S. Ahn, "Generation of Magnetic Propulsion Force and Torque for Microrobot Using Wireless Power Transfer Coil," IEEE Transactions on Magnetics, Vol. 51, No. 11, p. 8600104, Nov. 2015.
 
-  *M. Kim, H. Kim, D. Kim, Y. Jeong, H. H Park, and S. Ahn, "A Three-Phase Wireless-Power-Transfer System for Online Electric Vehicles with Reduction of Leakage Magnetic Fields," IEEE Transactions on Microwave Theory and Techniques, Vol. 63, No. 11, pp. 3806-3813, Sep. 2015.
+  * M. Kim, H. Kim, D. Kim, Y. Jeong, H. H Park, and S. Ahn, "A Three-Phase Wireless-Power-Transfer System for Online Electric Vehicles with Reduction of Leakage Magnetic Fields," IEEE Transactions on Microwave Theory and Techniques, Vol. 63, No. 11, pp. 3806-3813, Sep. 2015.
 
-  *D. Kim, M. Kim, J. Yoo, H. H Park, and S. Ahn, "Magnetic resonant wireless power transfer for propulsion of implantable micro-robot," Journal of Applied Physics, Vol. 117, No. 17, p. 17E712, Apr. 2015.
+  * D. Kim, M. Kim, J. Yoo, H. H Park, and S. Ahn, "Magnetic resonant wireless power transfer for propulsion of implantable micro-robot," Journal of Applied Physics, Vol. 117, No. 17, p. 17E712, Apr. 2015.
 
 ### International Conference
 
