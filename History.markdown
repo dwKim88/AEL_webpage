@@ -1,6 +1,3 @@
-## Publications
----
----
 ### International Journal
 
 20.	C. Park, J. Park, Y. Shin, J. Kim, S. Huh, **D. Kim**, and S. Ahn, "Separated Circular Capacitive Coupler for Reducing Cross-Coupling Capacitance in Drone Wireless Power Transfer System," IEEE Transactions on Microwave Theory and Techniques, Vol. 68, No. 9, pp. 3978-3985, Sep. 2020.
