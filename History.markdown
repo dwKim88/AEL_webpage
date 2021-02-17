@@ -44,26 +44,64 @@
 
 ### International Conference
 
-  * Add Keybase to social links (#400)
-  * Solarized skins (#404)
-  * Add a placeholder of favicons (#433)
-  * fix: make page.list_title optional (#303)
-  * Add stackoverflow to social media list (#443)
-  * Add social support for dev.to (#410)
-  * Add GitLab to social (#352)
-  * Support mutiple authors on post layout (#348)
-  * Re-implement site footer markup and styles (#448)
-  * Support pagination through posts in home layout (#450)
-  * Show the last modified date of posts (#432)
-  * Set margins of hr to improve readability (#461)
-  * Export a variable to let users to custom the font family of code (#462)
-  * Set margin-bottom of pagination (#458)
-  * Adjust margins of headings to make sections clear (#467)
-  * Rename favicons.html to custom-head.html (#468)
-  * Remove RSS icon from the social media list (#470)
-  * Improve the readablility of blockquotes (#481)
-  * Extract more color rules into skins (#452)
-  * Introduce &#34;Dark Minima&#34; skin (#335)
+* **D. Kim**, J. Kim, B. Park, H. Kim, S. Huh, and S. Ahn, "Instantaneous Magnetic Force Evaluation on a Magnetic Material for Wireless Power Transfer Based Microrobot Propulsion," 2020 IEEE Wireless Power Transfer Conference (WPTC 2020), Seoul, South Korea, Nov., 2020.
+
+  * J. Kim, H. Kim, **D. Kim**, J. Park, B. Park, S. Huh, and S. Ahn, "Analysis of Eddy Current Loss for Wireless Power Transfer in Conductive Medium High Using Z-parameters Method," 2020 IEEE Wireless Power Transfer Conference (WPTC 2020), Seoul, South Korea, Nov., 2020.
+
+  * B. Park, S. Huh, **D. Kim**, A. S. Brito Calderon, Y. Shin, J. Park, J. Koo, and S. Ahn, "Analysis of Magnetic Energy Harvester for Inspection Robot of Power Line Using Saturable Inductor," 2020 IEEE Wireless Power Transfer Conference (WPTC 2020), Seoul, South Korea, Nov., 2020.
+
+  * H. Kim, J. Kim, Y. Shin, J. Ahn, **D. Kim**, J. Park, B. Park, S. Huh, and S. Ahn, "Mitigation of Frequency Splitting Phenomena Using a Matching Capacitor in Wireless Power Transfer System for Automated Guided Vehicle," 2020 IEEE Wireless Power Transfer Conference (WPTC 2020), Seoul, South Korea, Nov., 2020.
+
+  * S. Huh, B. Park, **D. Kim**, J. Kim, J. Park, H. Kim, Y. Shin, and S. Ahn, "Optimal Transmitter Selection Method for Maximum Power Efficiency for Wireless Power Transfer System Using Multi-Transmitter," 2020 IEEE Wireless Power Transfer Conference (WPTC 2020), Seoul, South Korea, Nov., 2020.
+
+  * **D. Kim**, Q. He, A. H. , J. Fan, H. Kim, and S. Ahn, "Electric Parameter Tuning of Wireless Power Transfer Coil for Charging Interoperability of Electric Vehicles," 2020 IEEE EMC+SIPI Virtual Symposium,  Aug. 2020.
+
+  * **D. Kim**, J. Kim, H. Kim, and S. Ahn, "Effect of Biological Properties on Parasitic Capacitance Variation of Wireless Power Transfer Coil," Progress In Electromagnetics Research (PIERS) 2019, Rome, Italy, Jun. 2019.
+
+  * J. Kim, H. Kim, **D. Kim**, Y. shin, C. Park, and S. Ahn, "Modeling of Magnetic Coupled Coil for Wireless Power Transfer in Conductive Medium," 2020 IEEE Wireless Power Transfer Conference (WPTC 2020), London, United Kingdom, Jun. 2019.
+
+  * H. Lu, H. Zhao, A. Huang, **D. Kim**, J. Sun, J. Hu, and H. Kim, "High Power Wireless Power Transfer Efficiency and EMI Co-optimization Based on Fast Field-Circuit Cosimulation," 2019 IEEE International Conference on Computational Electromagnetics (ICCEM), Shanghai, China, Mar. 2019.
+
+  * **D. Kim**, B. Park, J. Park, Y. Shin, H. H. Park, and S. Ahn, "Actuator-less implantable microrobot propulsion using ferromagnetic material based on wireless power transfer system," 2018 IEEE Conference on Electromagnetic Field Computation (CEFC 2018), Hangzhou, China, Oct. 2018.
+
+  * B. Park, **D. Kim**, J. Park, Y. Shin, J. Won, K. Kim, J. Koo, and S. Ahn, "A 1.14 kW Magnetic Energy Harvesting Near Power Line by Considering Saturation Effect," EVS31 & EVTeC 2018, Kobe, Japan, Aug. 2018.
+
+  * **D. Kim**, B. Park, J. Park, H. H. Park, and S. Ahn, "Microrobot propulsion force generation using semiconductor based wireless power transfer coils," 2018 IEEE 7th Asia-Pacific Conference on Antennas and Propagation (APCAP 2018), Auckland, New Zealand, Aug. 2018.
+
+  * B. Park, **D. Kim**, J. Park, Y. Shin, J. Koo, and S. Ahn, "Design of Toroidal Core for Magnetic Energy Harvester Near Power Line Considering Saturation," Joint IEEE & APEMC 2018, Singapore, Singapore, May 2018.
+
+  * **D. Kim**, B. Park, J. Park, H. H Park, and S. Ahn, "Magnetic field concentration using ferromagnetic material for propulsion of wireless power transfer based micro-robot," 62nd Annual Conference on Magnetism nd Magnetic Materials (MMM), Pittsburgh, United States, Nov. 2017.
+
+  * B. Park, **D. Kim**, J. Park, J. Koo, H. Park, and S. Ahn, "Design methodology of toroidal core for magnetic energy harvesting based on magnetic field dependence of permeability near power line," 62nd Annual Conference on Magnetism nd Magnetic Materials (MMM), Pennsylvania, United States, Nov. 2017.
+
+  * **D. Kim**, J. Park, and S. Ahn, "Dynamic frequency control for high-efficiency power and propulsion force transfer on a wireless power transfer based micro-robot," International Conference of Micro/Nanomachines (ICMNM 2017), Wuhan, China, Aug. 2017.
+
+  * **D. Kim**, and S. Ahn, "Constant Velocity Motion of a Micro-Robot Using a Uniform Magnetic Field," 2017 Asia-Pacific International Symposium on EMC (APEMC) 2017, Seoul, South Korea, Jun. 2017.
+
+  * H. Kim, K. Hwang, J. Park, **D. Kim**, and S. Ahn, "Design of Single-Sided AC Magnetic field forming coil for Wireless Power Transfer," 2017 IEEE Wireless Power Transfer Conference (WPTC 2017), Taipei, Taiwan, May 2017.
+
+  * **D. Kim**, J. Park, K. Hwang, and S. Ahn, "High Efficiency Wireless Power and Force Transfer for Micro-robot using 3-Axis AC/DC Magnetic Coil," 2016 IEEE Conference on Electromagnetic Field Computation (CEFC 2016), Miami, United States, Nov. 2016.
+
+  * K. Hwang, J. Cho, J. Park, **D. Kim**, J. Kwon, S. Kwak, H. Park, and S. Ahn, "Autonomous Coil Alignment System for Dynamic Wireless Charging EVs to Minimize Lateral Misalignment," 2nd Asia-Pacific World Congress on Engineering (APWCE), Fiji, , Nov. 2016.
+
+  * **D. Kim**, K. Hwang, J. Park, H. H, Park, and S, Ahn, "Miniaturization of Implantable Micro-robot Propulsion using Wireless Power Transfer System," 4th International Conference of Asian Union of Magnetics Societies (ICAUMS 2016), Tainan, Taiwan, Aug. 2016.
+
+  * **D. Kim**, J. Park, K. Hwang, and S. Ahn, "Generating Propulsion Force in Micro-robot using Wireless Power Transfer," 2016 URSI Asia-Pacific Radio Science Conference (URSI AP-RASC 2016), Seoul, South Korea, Aug. 2016.
+
+  * **D. Kim**, and S. Ahn, "Driver status monitoring based on image processing," International Symposia of Transport Simulation 2016 (ISTS 2016), Jeju, South Korea, Jul. 2016.
+
+  * J. Park, K. Hwang, **D. Kim**, and S. Ahn, "Lateral misalignment tolerance enhancement by using electromagnet based flux gate in wireless power transfer systems," 2016 IEEE Wireless Power Transfer Conference (WPTC 2016), Aveiro, Portugal, May 2016.
+
+  * **D. Kim**, K. Hwang, H. H. Park, and S. Ahn, "Coil Design for Implantable Micro-Robot using Magnetic Resonant Wireless Power Transfer and Magnetic Propulsion," 13th Joint MMM-Intermag Conference 2016, San Diego, United States, Jan. 2016.
+
+  * **D. Kim**, K. Hwang, S. Ahn, and I. Han, "Driver status monitoring based on Neuromorphic visual processing," World Scientific and Engineering Academy and Society (WSEAS), Seoul, South Korea, Sep. 2015.
+
+  * **D. Kim**, J. Park, K. Kim, H. H. Park, and S. Ahn, "Propulsion and Control of Implantable Micro-Robot based on Wireless Power Transfer," 2015 IEEE Wireless Power Transfer Conference (WPTC 2015), Boulder, United States, May 2015.
+
+  * **D. Kim**, J. Park, H. H. Park, and S. Ahn, "Generation of Magnetic Propulsion Force using Wireless Power Transfer Coil," 2015 IEEE International Magnetics Conference (INTERMAG 2015), Beijing, China, May 2015.
+
+  * **D. Kim**, M. Kim, J. Yoo, H. H. Park, and S. Ahn, "Magnetic Resonant Wireless Power Transfer for Propulsion of Implantable Micro-Robot," 59th Annual Conference on Magnetism and Magnetic Materials (MMM), Honolulu, United States, Nov. 2014.
+
 
 ### Major Enhancements
 
