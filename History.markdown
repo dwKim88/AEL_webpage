@@ -42,6 +42,8 @@
 
   * **D. Kim**, M. Kim, J. Yoo, H. H Park, and S. Ahn, "Magnetic resonant wireless power transfer for propulsion of implantable micro-robot," Journal of Applied Physics, Vol. 117, No. 17, p. 17E712, Apr. 2015.
 
+---
+
 ### International Conference
 
   * **D. Kim**, J. Kim, B. Park, H. Kim, S. Huh, and S. Ahn, "Instantaneous Magnetic Force Evaluation on a Magnetic Material for Wireless Power Transfer Based Microrobot Propulsion," 2020 IEEE Wireless Power Transfer Conference (WPTC 2020), Seoul, South Korea, Nov., 2020.
